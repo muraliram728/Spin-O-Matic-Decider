@@ -7,13 +7,14 @@ Spin-O-Matic is a fun decision-making app built with **React, Redux Toolkit, and
 
 ## 🚀 Live Demo
 
-🔗 [Spin-O-Matic Decider](https://your-deployment-link.com) (Update with your Netlify/Vercel link)
+🔗 [Spin-O-Matic Decider](https://spin-o-matic-decider.netlify.app/)
 
 ---
 
 ## 📸 Screenshots
 
-![Spin-O-Matic Screenshot](https://your-image-url.com) _(Add a real screenshot here)_
+![image](https://github.com/user-attachments/assets/be245b8b-7093-4e8b-8956-e261f112b06f)
+
 
 ---
 
