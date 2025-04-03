@@ -34,7 +34,8 @@ Spin-O-Matic is a fun decision-making app built with **React, Redux Toolkit, and
 - ⚡ **React + Vite** – Fast development setup
 - 🎯 **Redux Toolkit** – State management
 - 💾 **Local Storage** – Persistent history
-- 🎨 **Styled Components/Tailwind CSS** – UI design (Update based on your styling choice)
+- 🎨 **Styled Components/React Bootstrap
+** – UI design (Update based on your styling choice)
 
 ---
 
