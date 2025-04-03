@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
-let optionFromWeb = JSON.parse(localStorage.getItem("WheelOption"));
-let historyFromWeb = JSON.parse(localStorage.getItem("History"));
+let optionFromWeb = JSON.parse(localStorage.getItem("WheelOption")) || [];
+let historyFromWeb = JSON.parse(localStorage.getItem("History")) || [];
 
 const initialState = {
   options: optionFromWeb,
