@@ -1,0 +1,35 @@
+:root {
+    --purple-color: #da61ef;
+}
+
+.my-purple-text {
+    color: var(--purple-color);
+    font-weight: bold;
+}
+
+input.form-control:hover {
+    border-color: var(--purple-color); 
+}
+input.form-control:focus {
+    box-shadow: none !important;
+}
+
+.delete-icon {
+    font-size: 24px;
+    cursor: pointer;
+  }
+  .delete-icon:hover {
+    background-color:var(--purple-color); 
+    padding: 4px; 
+    border-radius: 5px;
+  }
+  .custom-bg {
+    background-color: #dddddd !important; /* Light gray */
+  }
+
+  .winning-option{
+    color: var(--purple-color);
+  }
+  .winning{
+    margin-top: 15px;
+  }

@@ -1,0 +1,14 @@
+.my-button {
+    background-color: var(--purple-color);
+    color: white;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.my-button:hover {
+    background-color: #7b1fa2; /* Darker purple */
+}
